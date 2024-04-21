@@ -1,0 +1,15 @@
+.main{
+    overflow: hidden;
+    scrollbar-width: none;
+}
+
+.chart-container {
+    width: 100%;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .chart-container {
+      height: 70%;
+    }
+  }
+  

@@ -1,0 +1,13 @@
+.customWallet {
+    padding: 0.8rem!important;
+    font-size: 1.3rem!important;
+    font-weight: 500!important;
+    background-color: #000!important;
+    color: #fff!important;
+    border-radius: 1rem!important;
+  }
+
+/* Target hover state directly without using & */
+.customWallet:hover {
+    cursor: pointer !important;
+  }

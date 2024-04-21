@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button{
+    margin-top: 0px;
+    align-self: end;
+    z-index: 0;
+}
+
+label{
+    z-index: 0;
+    margin-right: 10px;
+}
+@media (min-width: 320px) and (max-width: 720px) {
+    button{
+        padding-top: 10px;
+        margin-top: 10px;
+    }
+    label{
+        margin-right: 0px;
+        z-index: 0;
+    }
+    
+    
+  }
