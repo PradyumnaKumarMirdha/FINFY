@@ -37,20 +37,20 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 # Example of Query
 
-https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/chat.png
+![](https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/chat.png)
 
 # Example of Dashboard
 
-https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture5.png
+![](https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture5.png)
 
 # Example of Market
 
-https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture1.png
+![](https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture1.png)
 
 # Example of Calculator
 
-https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture3.png
+![](https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture3.png)
 
 # Example of News
 
-https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture4.png
+![](https://github.com/PradyumnaKumarMirdha/FINFY/blob/main/Demo/Picture4.png)
